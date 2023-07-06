@@ -2,7 +2,7 @@
 
 This is a clone of the Starbucks website, created using HTML and CSS.
 
-![Product Card Animated Design](screenshot.png)
+![Starbucks UI Clone](screenshot.png)
 
 ## Technologies Used
 
